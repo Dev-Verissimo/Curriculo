@@ -1,2 +1,1 @@
-# Curriculo
-CV
+# https://dev-verissimo.github.io/Curriculo/
